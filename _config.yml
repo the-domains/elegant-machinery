@@ -1,0 +1,14 @@
+layout_spectrum: 0.21388947986997664
+typography_spectrum: 0.3682471646461636
+color:
+  brandStrength: 0.4324672189541161
+  lightness: 0.4380401785019785
+  saturation: 0.8730435005854815
+  rhythmicContrast: 0.8805495221167803
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: elegant machinery
